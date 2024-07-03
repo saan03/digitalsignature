@@ -2,7 +2,6 @@ Digital Signature
 
 Overview 
 
-
 Digital signatures are cryptographic tools used to validate the authenticity and integrity of a message, software, or digital document. It serves as a digital equivalent of a handwritten signature or a stamped seal, but it offers far more inherent security.
 
 Digital Signature Verification
